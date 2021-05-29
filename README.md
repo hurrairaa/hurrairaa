@@ -2,27 +2,52 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
-### Some Stats About Raghav (Public Only)
-<p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
 
-<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+<p align="left">
+  <em>
+  A passionate Software Engineer and Web Developer 🚀 having an experience of building Web applications with Laravel / Vuejs / Reactjs / Nodejs and some other cool libraries and frameworks.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+  </em> 
+  <br>
+
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmafzaalch&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="engrmafzaalch" /> </p>
 
-⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
+
+
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m experienced with **Laravel** , **VueJs** , **ReactJs**<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+ 
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p align="left">
+  <code> <img height="50" src="https://laravel.com/img/logomark.min.svg"> </code>
+  <code> <img height="40" src="https://www.php.net//images/logos/new-php-logo.svg"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/vuejs.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
+  <code><img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/html.png"></code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/css.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/sass.svg"> </code>  
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/js.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bootstrap.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bulma.svg"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/tailwin.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/nuxt-logo.png"> </code>
+  <code> <img height="50" src="hhttps://github.com/engrmafzaalch/engrmafzaalch/blob/main/vuetify.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bv.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/nodejs.webp"> </code>
+   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/git.webp"> </code>
+    <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/github.png"> </code>
+     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
+     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmafzaalch&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="engrmafzaalch" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=engrmafzaalch" alt="engrmafzaalch" width="410" /></p>
