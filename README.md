@@ -8,7 +8,7 @@
 
 <p align="left">
   <em>
-  A passionate Software Engineer and Web Developer 🚀 having an experience of building Web applications with Laravel / Vuejs / Reactjs / Nodejs and some other cool libraries and frameworks.
+  A passionate Software Engineer and Web Developer 🚀 having an experience of building Web applications with Laravel / Vuejs / Reactjs and some other cool libraries and frameworks.
 
   </em> 
   <br>
