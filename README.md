@@ -19,7 +19,7 @@
 
 
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ If you are working on something that you really care about, you don't have to be pushed. <br>
 ✔ I’m experienced with **Laravel** , **VueJs** , **ReactJs**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
