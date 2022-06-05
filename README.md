@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hurraira</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Hurraira</h1>
 <h3 align="left">Software Engineer | Web Developer</h3>
 <p align="left">
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -25,7 +25,7 @@
 ✔ If you want light to come into your life, you need to stand where it is shining.. <br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   <code> <img height="50" src="https://laravel.com/img/logomark.min.svg"> </code>
   <code> <img height="50" src="https://www.php.net//images/logos/new-php-logo.svg"> </code>
@@ -56,7 +56,7 @@
      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmafzaalch&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="engrmafzaalch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=engrmafzaalch" alt="engrmafzaalch" width="410" /></p>
